@@ -1,3 +1,8 @@
+---
+description: 中文AI工作流框架 - 先理解再执行
+version: 1.0.0
+---
+
 # 超能力 CN (Superpowers CN)
 
 中文AI工作流框架 - 让AI做事更有逻辑、更有章法。
