@@ -1,54 +1,29 @@
 ---
-description: 中文AI工作流框架 - 先理解再执行
+description: Chinese AI workflow framework
 version: 1.0.0
 ---
 
-# 超能力 CN (Superpowers CN)
+# Superpowers CN
 
-中文AI工作流框架 - 让AI做事更有逻辑、更有章法。
+Chinese AI workflow framework.
 
-## 核心理念
+## Philosophy
 
-**不是直接写代码，而是先理解 → 再设计 → 最后执行**
+1. Clarify requirements
+2. Design solution
+3. Execute step by step
+4. Review and verify
 
-1. **澄清需求** - 问清楚你要什么
-2. **制定设计** - 给出具体方案等你确认
-3. **分解任务** - 把大任务拆成小步骤
-4. **执行验证** - 逐步完成并检查结果
+## Stages
 
-## 工作流阶段
+### Clarify
+Ask questions before starting.
 
-### 阶段一：澄清 (Clarify)
-当接到任务时，不要立刻动手，先问：
-- "你想解决什么问题？"
-- "最终效果是什么样的？"
-- "有什么限制或要求？"
+### Plan
+Design the solution.
 
-### 阶段二：设计 (Plan)
-制定设计方案，包括：
-- 文件结构
-- 核心模块
-- 实现步骤
-- 风险点
+### Execute
+Execute step by step.
 
-### 阶段三：执行 (Execute)
-- 按步骤执行
-- 每步验证
-- 及时汇报进度
-
-### 阶段四：审核 (Review)
-- 检查是否符合需求
-- 代码质量
-- 是否有遗漏
-
-## 触发词
-
-"开发"、"写代码"、"做个XX"、"实现XX功能"、"帮我做"
-
-## 安装
-
-将此目录加入 OpenX skills 配置即可。
-
-## 状态
-
-开发中 (2026-03-28)
+### Review
+Check the results.
